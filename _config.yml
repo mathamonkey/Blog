@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   You happen to be reading my online notebook. Here I write about stuff that excites me, at times its just purely random.
   I will be super happy to hear from you about anything from technology to litrature to philisophy to your views
   about my notes, feel free to ping me. :)
-baseurl: "/Blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.manthan.me" # the base hostname & protocol for your site
 github_username:    jekyll
 instagram_username: jekyllrb
 twitter_username:   jekyllrb
